@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{8FEC6D33-EA5B-424A-8173-D4E8C7AAE682}"
+	ProjectSection(SolutionItems) = preProject
+		paket.dependencies = paket.dependencies
+	EndProjectSection
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.WebApp1", "Example.WebApp1\Example.WebApp1.csproj", "{EC5F9536-B76C-4EA9-8F73-1716718D7CD6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.Lib1", "Example.Lib1\Example.Lib1.csproj", "{9EB9D096-E040-4547-9DA5-FEC710029005}"

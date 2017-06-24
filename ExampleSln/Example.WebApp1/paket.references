@@ -1,0 +1,4 @@
+Microsoft.AspNet.WebApi.Client
+Microsoft.AspNet.WebApi.WebHost
+Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+Microsoft.Net.Compilers
